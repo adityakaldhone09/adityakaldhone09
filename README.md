@@ -1,7 +1,7 @@
 <!-- Profile README for github.com/adityakaldhone09 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=190&section=header&text=ADITYA%20KALDHONE&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Science%20Engineer%20%7C%20AI%20%7C%20Cybersecurity&descSize=16&descAlignY=58" alt="Aditya Kaldhone profile banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=190&section=header&text=Aditya%20Kaldhone&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Science%20Engineer%20%7C%20AI%20%7C%20Cybersecurity&descSize=16&descAlignY=58" alt="Aditya Kaldhone profile banner" width="100%" />
 </div>
 
 <h1 align="center">Hi, I'm Aditya 👋</h1>
@@ -80,13 +80,19 @@ Frameworks, Data & Tools
 
 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adityakaldhone09&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+  <a href="https://github.com/adityakaldhone09?tab=overview">
+    <img src="https://streak-stats.demolab.com?user=adityakaldhone09&hide_border=true&hide_total=true&timezone=UTC&background=0D1117&stroke=30363D&ring=58A6FF&fire=F78166&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub contribution streak for adityakaldhone09, using UTC dates" />
+  </a>
 </p>
 
-🗓️ Contribution Activity Graph
+🗓️ Contribution Activity — Last 12 Months
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityakaldhone09&theme=github" alt="GitHub contribution activity summary" width="100%" />
+  <a href="https://github.com/adityakaldhone09?tab=overview">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityakaldhone09&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&chart_color=3FB950" alt="Annual GitHub contribution activity summary for adityakaldhone09" width="100%" />
+  </a>
 </p>
+
+<p align="center"><sub>Both cards use the same GitHub account. Streak dates are set to UTC to align with GitHub's contribution calendar. The streak card's total is hidden because independent services can calculate or cache contribution totals differently. The <a href="https://github.com/adityakaldhone09?tab=overview">GitHub profile contribution calendar</a> is the source of truth.</sub></p>
 
 📈 Commit Activity
 <p align="center">
