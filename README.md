@@ -1,7 +1,9 @@
 <!-- Profile README for github.com/adityakaldhone09 -->
 
+<!-- README_AUTOSYNC: 2026-10-17T00:00:00Z -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=190&section=header&text=Aditya%20Kaldhone&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Science%20Engineer%20%7C%20AI%20%7C%20Cybersecurity&descSize=16&descAlignY=58" alt="Aditya Kaldhone profile banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=190&section=header&text=Aditya%20Kaldhone&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20S[...]" alt="" />
 </div>
 
 <h1 align="center">Hi, I'm Aditya 👋</h1>
@@ -69,7 +71,7 @@ Frameworks, Data & Tools
 
 📊 GitHub Analytics
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fadityakaldhone09&query=%24.public_repos&label=Public%20Repositories&color=2563EB&style=for-the-badge" alt="Public repository count" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fadityakaldhone09&query=%24.public_repos&label=Public%20Repositories&color=2563EB&style=for-the-badg[...]" alt="Public repository count" />
   <img src="https://img.shields.io/github/followers/adityakaldhone09?label=Followers&style=for-the-badge&color=0F766E" alt="GitHub followers" />
 </p>
 
