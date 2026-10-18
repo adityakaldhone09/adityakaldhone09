@@ -85,12 +85,6 @@ Frameworks, Data & Tools
   </a>
 </p>
 
-🗓️ Contribution Activity — Last 12 Months
-<p align="center">
-  <a href="https://github.com/adityakaldhone09?tab=overview">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityakaldhone09&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&chart_color=3FB950" alt="Annual GitHub contribution activity summary for adityakaldhone09" width="100%" />
-  </a>
-</p>
 
 <p align="center"><sub>Both cards use the same GitHub account. Streak dates are set to UTC to align with GitHub's contribution calendar. The streak card's total is hidden because independent services can calculate or cache contribution totals differently. The <a href="https://github.com/adityakaldhone09?tab=overview">GitHub profile contribution calendar</a> is the source of truth.</sub></p>
 
