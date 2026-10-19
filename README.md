@@ -106,5 +106,5 @@ Frameworks, Data & Tools
 <p align="center"><em>“Build with curiosity. Improve with every iteration.”</em></p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=90&section=footer" alt="Decorative footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=90&section=footer" alt="Decorative footer" width="100%"/>
 </div>
