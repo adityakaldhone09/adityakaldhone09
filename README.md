@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=190&section=header&text=Aditya%20Kaldhone&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Science%20Engineer%20%7C%20AI%20%7C%20Cybersecurity&descSize=16&descAlignY=58" alt="Aditya Kaldhone profile banner" width="100%" />
 </div>
 
-<h1 align="center">Hi, I'm Aditya 👋</h1>
+<h1 align="center">Hi, I'm Aditya 👋 </h1>
 
 <p align="center">
   <strong>Engineering ideas into impactful software.</strong><br />
