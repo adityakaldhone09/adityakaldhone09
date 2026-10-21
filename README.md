@@ -142,16 +142,6 @@
 
 ---
 
-## 📈 Commit Activity
-
-<p align="center">
-  <a href="https://github.com/adityakaldhone09">
-    <img src="https://ghchart.rshah.org/2563eb/adityakaldhone09" alt="Aditya Kaldhone's Contribution Chart" width="100%" />
-  </a>
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="center">
