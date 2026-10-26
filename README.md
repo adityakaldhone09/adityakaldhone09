@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Education**: Computer Science & Engineering (Cyber Security) student based in Pune, Maharashtra.
+- 🎓 **Education**: Computer Science & Engineering (Cyber Security) student based in Pune, Maharashtra-India.
 - 🤖 **AI & ML**: Enthusiastic about Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and autonomous AI agents.
 - 🛡️ **Cybersecurity**: Focused on defensive security, threat intelligence, and secure full-stack software architecture.
 - 🛠️ **Engineering**: Love building scalable, practical applications—from core system design to smooth user experiences.
