@@ -132,13 +132,33 @@
 
 ---
 
+
+---
+
+## 📈 GitHub Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=adityakaldhone09&bg_color=0D1117&color=58A6FF&line=2563EB&point=22C55E&area=true&area_color=1D4ED8&hide_border=true&custom_title=Aditya's%20Contribution%20Graph"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+
 ## 🔥 Contribution Streak
 
 <p align="center">
   <a href="https://github.com/adityakaldhone09">
-    <img src="https://streak-stats.demolab.com?user=adityakaldhone09&hide_border=true&timezone=Asia/Kolkata&background=0D1117&stroke=30363D&ring=2563EB&fire=2563EB&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2563EB&sideLabels=8B949E&dates=8B949E" alt="GitHub Contribution Streak" />
+    <img
+      src="https://streak-stats.demolab.com?user=adityakaldhone09&hide_border=true&timezone=Asia/Kolkata&background=0D1117&stroke=30363D&ring=2563EB&fire=2563EB&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2563EB&sideLabels=8B949E&dates=8B949E"
+      width="80%"
+      alt="GitHub Contribution Streak"
+    />
   </a>
 </p>
+
+---
+
 
 ---
 
