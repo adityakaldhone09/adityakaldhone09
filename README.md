@@ -1,180 +1,321 @@
-<!-- Profile README for github.com/adityakaldhone09 -->
+ <div align="center">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=190&section=header&text=Aditya%20Kaldhone&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Science%20Engineer%20%7C%20AI%20%7C%20Cybersecurity&descSize=16&descAlignY=58" alt="Aditya Kaldhone profile banner" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=ADITYA%20KALDHONE&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=AI%20ENGINEERING%20%7C%20FULL%20STACK%20%7C%20MACHINE%20LEARNING%20%7C%20CYBERSECURITY&descSize=13&descAlignY=60&color=0:0F172A,25:312E81,55:6D28D9,80:2563EB,100:06B6D4&animation=fadeIn" />
+
+<br/>
+
+<a href="https://github.com/adityakaldhone09">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="mailto:adityakaldhone9@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=adityakaldhone09&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+
+### Engineering Ideas into Intelligent Solutions.
+
+`AI ENGINEERING` · `RAG` · `FULL STACK` · `MACHINE LEARNING` · `CYBERSECURITY`
+
 </div>
 
-<h1 align="center">Hi, I'm Aditya 👋</h1>
-
-<p align="center">
-  <strong>Engineering ideas into impactful software.</strong><br />
-  Computer Science Engineering (Cyber Security) student with a strong passion for Artificial Intelligence, LLMs, and Full-Stack Development.
-</p>
-
-<p align="center">
-  <a href="https://github.com/adityakaldhone09">
-    <img src="https://img.shields.io/badge/GitHub-adityakaldhone09-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="mailto:adityakaldhone9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aditya" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=adityakaldhone09&style=for-the-badge&color=2563EB" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cybersecurity-0F766E?style=for-the-badge" alt="Current focus: AI and Cybersecurity" />
-</p>
-
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 **Education**: Computer Science & Engineering (Cyber Security) student based in Pune, Maharashtra-India.
-- 🤖 **AI & ML**: Enthusiastic about Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and autonomous AI agents.
-- 🛡️ **Cybersecurity**: Focused on defensive security, threat intelligence, and secure full-stack software architecture.
-- 🛠️ **Engineering**: Love building scalable, practical applications—from core system design to smooth user experiences.
-- 🌱 **Currently Learning**: Deepening knowledge in advanced Data Structures & Algorithms, Deep Learning, and Distributed Systems.
-- 🤝 **Collaboration**: Open to collaborating on innovative AI, cybersecurity, and open-source projects.
-- 💬 **Ask me about**: Python, TypeScript, React, Machine Learning, RAG architectures, and C++.
-
----
-
-## 🧰 Tech Stack
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-</p>
-
-### AI, Machine Learning & Data
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-</p>
-
-### Databases, Cloud & Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ SpectraShield</h3>
-      <p>An intelligent cybersecurity platform focused on proactive threat detection, vulnerability analysis, and real-time defense mechanisms.</p>
-      <p><strong>Stack:</strong> TypeScript · Cybersecurity · Threat Detection · Full-Stack</p>
-      <a href="https://github.com/adityakaldhone09/SpectraShield"><strong>Explore Repository →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 Pragyan — AI Career Recommendation</h3>
-      <p>An AI-powered guidance system designed to help students and professionals navigate tailored career paths through adaptive assessments and skill insights.</p>
-      <p><strong>Stack:</strong> TypeScript · AI/ML · Recommendation Systems · Adaptive Testing</p>
-      <a href="https://github.com/adityakaldhone09/Pragyan"><strong>Explore Repository →</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📄 Prochure-AI</h3>
-      <p>An intelligent automated brochure and content generator powered by modern LLMs and generative AI workflows.</p>
-      <p><strong>Stack:</strong> Python · LLMs · Generative AI · Automation</p>
-      <a href="https://github.com/adityakaldhone09/Prochure-Ai"><strong>Explore Repository →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐾 Dog vs Cat CNN Classifier</h3>
-      <p>An end-to-end computer vision pipeline featuring custom CNN architecture, Kaggle dataset integration, and model evaluation metrics.</p>
-      <p><strong>Stack:</strong> Python · TensorFlow / Keras · CNN · Computer Vision</p>
-      <a href="https://github.com/adityakaldhone09/dog-vs-cat-cnn-classifier"><strong>Explore Repository →</strong></a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  🔍 <em>Explore more projects and experiments in my <a href="https://github.com/adityakaldhone09?tab=repositories">GitHub Repositories</a>.</em>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fadityakaldhone09&query=%24.public_repos&label=Public%20Repositories&color=2563EB&style=for-the-badge" alt="Public repository count" />
-  <img src="https://img.shields.io/github/followers/adityakaldhone09?label=Followers&style=for-the-badge&color=0F766E" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fadityakaldhone09&query=%24.location&label=Location&color=6366F1&style=for-the-badge" alt="Location" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=adityakaldhone09&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Aditya's GitHub Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakaldhone09&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most Used Languages" />
-</p>
-
----
-
-
----
-
-## 📈 GitHub Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=adityakaldhone09&bg_color=0D1117&color=58A6FF&line=2563EB&point=22C55E&area=true&area_color=1D4ED8&hide_border=true&custom_title=Aditya's%20Contribution%20Graph"
-    width="100%"
-    alt="GitHub Contribution Activity Graph"
-  />
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <a href="https://github.com/adityakaldhone09">
-    <img
-      src="https://streak-stats.demolab.com?user=adityakaldhone09&hide_border=true&timezone=Asia/Kolkata&background=0D1117&stroke=30363D&ring=2563EB&fire=2563EB&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2563EB&sideLabels=8B949E&dates=8B949E"
-      width="80%"
-      alt="GitHub Contribution Streak"
-    />
-  </a>
-</p>
-
----
-
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/adityakaldhone09">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Aditya-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:adityakaldhone9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center"><em>“Build with curiosity. Improve with every iteration !!.”</em></p>
+## 👨‍💻 ABOUT ME
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=90&section=footer" alt="Decorative footer" width="100%"/>
+<img align="right" width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakaldhone09&layout=donut&theme=tokyonight&hide_border=true" />
+</div>
+
+🎓 B.Tech Computer Science & Engineering — Cybersecurity
+
+📍 Pune, Maharashtra, India
+
+🤖 AI Engineering · LLMs · RAG · Autonomous AI Agents
+
+🧠 Machine Learning · Deep Learning · NLP
+
+🌐 Full-Stack Development · Backend Engineering
+
+🛡️ Defensive Security · Threat Intelligence
+
+🎓 Minor in Artificial Intelligence — IIT Ropar
+
+<br clear="right"/>
+
+---
+
+## ⚡ TECHNOLOGY ECOSYSTEM
+
+<div align="center">
+
+### 💻 PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css&perline=8&theme=dark" />
+
+<br/><br/>
+
+### 🤖 AI · MACHINE LEARNING · DEEP LEARNING
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=8&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CNN-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embeddings-06B6D4?style=for-the-badge" />
+
+<br/><br/>
+
+### 🌐 FRONTEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&perline=8&theme=dark" />
+
+<br/><br/>
+
+### ⚙️ BACKEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=8&theme=dark" />
+
+<br/><br/>
+
+### 🗄️ DATABASES · VECTOR STORAGE
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis&perline=8&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" />
+<img src="https://img.shields.io/badge/BM25-2563EB?style=for-the-badge" />
+
+<br/><br/>
+
+### 🔐 CYBERSECURITY
+
+<img src="https://img.shields.io/badge/Web%20Security-DC2626?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Threat%20Intelligence-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cryptography-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Network%20Security-0891B2?style=for-the-badge" />
+
+<br/><br/>
+
+### 🛠️ TOOLS · PLATFORMS · DEVOPS
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel&perline=8&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+<a href="https://github.com/adityakaldhone09/SpectraShield">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=85&text=01%20%7C%20SPECTRASHIELD&fontSize=28&fontColor=FFFFFF&color=0:0F172A,100:2563EB" width="100%" />
+</a>
+
+### 🛡️ AI-ASSISTED CYBERSECURITY PLATFORM
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-DC2626?style=flat-square" />
+<img src="https://img.shields.io/badge/Threat%20Detection-7C3AED?style=flat-square" />
+
+Proactive threat detection · Vulnerability analysis · Security engineering
+
+<a href="https://github.com/adityakaldhone09/SpectraShield">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/adityakaldhone09/Pragyan">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=85&text=02%20%7C%20PRAGYAN&fontSize=28&fontColor=FFFFFF&color=0:4C1D95,100:9333EA" width="100%" />
+</a>
+
+### 🎯 AI CAREER RECOMMENDATION SYSTEM
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" />
+<img src="https://img.shields.io/badge/AI%2FML-8B5CF6?style=flat-square" />
+
+Adaptive assessment · Career matching · Embeddings · Skill-gap analysis
+
+<a href="https://github.com/adityakaldhone09/Pragyan">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/adityakaldhone09?tab=repositories">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=85&text=03%20%7C%20ALPHANEXUS&fontSize=28&fontColor=FFFFFF&color=0:312E81,100:2563EB" width="100%" />
+</a>
+
+### 🧠 AI-POWERED FINANCIAL INTELLIGENCE
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql" />
+<img src="https://img.shields.io/badge/pgvector-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" />
+
+Hybrid retrieval · BM25 · Vector Search · RRF · LLM Integration
+
+<a href="https://github.com/adityakaldhone09?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/adityakaldhone09/shriramautomobiles">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=85&text=04%20%7C%20SHRIRAM%20AUTOMOBILES&fontSize=25&fontColor=FFFFFF&color=0:075985,100:06B6D4" width="100%" />
+</a>
+
+### 🏍️ DIGITAL AUTOMOTIVE PLATFORM
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
+
+Service booking · Spare parts · Vehicle management · AI integration
+
+<a href="https://github.com/adityakaldhone09/shriramautomobiles">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/adityakaldhone09/Prochure-Ai">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=85&text=05%20%7C%20PROCHURE%20AI&fontSize=28&fontColor=FFFFFF&color=0:92400E,100:F59E0B" width="100%" />
+</a>
+
+### 📄 AI-POWERED BROCHURE GENERATION
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=flat-square" />
+
+Automated brochure generation · LLMs · Content generation workflows
+
+<a href="https://github.com/adityakaldhone09/Prochure-Ai">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/adityakaldhone09/dog-vs-cat-cnn-classifier">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=85&text=06%20%7C%20DOG%20VS%20CAT%20CNN&fontSize=27&fontColor=FFFFFF&color=0:065F46,100:10B981" width="100%" />
+</a>
+
+### 🐶 COMPUTER VISION · CNN CLASSIFIER
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras" />
+
+CNN architecture · Image classification · Computer vision · Model evaluation
+
+<a href="https://github.com/adityakaldhone09/dog-vs-cat-cnn-classifier">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityakaldhone09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakaldhone09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=adityakaldhone09&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=06B6D4&currStreakLabel=FFFFFF&timezone=Asia%2FKolkata" />
+
+</div>
+
+---
+
+## 📈 CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakaldhone09&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=06B6D4&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=adityakaldhone09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
+
+</div>
+
+---
+
+## 🎓 EDUCATION & COMMUNITY
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/IIT%20Ropar-Minor%20in%20Artificial%20Intelligence-2563EB?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/GHRCEM-Computer%20Science%20%26%20Engineering-7C3AED?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/SCADE%20Club-Technical%20Involvement-0891B2?style=for-the-badge" />
+
+</div>
+
+---
+
+## 🔭 CURRENT FOCUS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-LLM%20Engineering-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/02-Advanced%20RAG-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/03-Hybrid%20Retrieval-2563EB?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/04-Deep%20Learning-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/05-Full%20Stack-0D9488?style=for-the-badge" />
+<img src="https://img.shields.io/badge/06-System%20Design-4F46E5?style=for-the-badge" />
+
+</div>
+
+---
+
+## 🤝 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/adityakaldhone09">
+<img src="https://img.shields.io/badge/GitHub-adityakaldhone09-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:adityakaldhone9@gmail.com">
+<img src="https://img.shields.io/badge/Email-adityakaldhone9%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<br/><br/>
+
+**AI ENGINEERING · MACHINE LEARNING · RAG · FULL-STACK DEVELOPMENT**
+
+*Build with curiosity. Improve with every iteration.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:06B6D4,30:2563EB,65:7C3AED,100:0F172A" />
+
 </div>
