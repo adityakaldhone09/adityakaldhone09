@@ -86,15 +86,6 @@ My interests lie in developing AI-powered applications, designing retrieval-augm
 - SQLAlchemy
 - Prisma ORM
 
-### Cybersecurity
-
-- Web Application Security
-- Network Security Fundamentals
-- Cryptography
-- Vulnerability Assessment
-- OWASP Web Security
-- Hands-on Security Labs
-
 ### Tools & Platforms
 
 <p>
@@ -153,23 +144,7 @@ A digital platform for two-wheeler spare-parts management, servicing and custome
 
 [![View Repository](https://img.shields.io/badge/Explore-Shriram_Automobiles-2563EB?style=flat-square&logo=github)](https://github.com/adityakaldhone09/shriramautomobiles)
 
-### 04. OriginX / TruthSeeker — Fake News Origin Analysis
-
-A hackathon project focused on investigating the origin and amplification of fake news by tracing how information spreads across digital platforms.
-
-**Key Engineering Areas**
-- Fake news analysis.
-- Information propagation tracking.
-- Origin identification concepts.
-- NLP and intelligent data analysis.
-- Cybersecurity-oriented information investigation.
-
-**Technology Focus:** Python · AI/ML · NLP · Data Analysis · Cybersecurity
-
-[![Explore Projects](https://img.shields.io/badge/More_Projects-View_Repositories-181717?style=flat-square&logo=github)](https://github.com/adityakaldhone09?tab=repositories)
-
 ---
-
 ## 📊 GitHub Statistics
 
 <div align="center">
