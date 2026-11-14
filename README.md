@@ -1,259 +1,241 @@
  
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,30:312E81,65:2563EB,100:06B6D4&height=260&section=header&text=ADITYA%20KALDHONE&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=AI%20ENGINEERING%20%7C%20FULL%20STACK%20DEVELOPMENT%20%7C%20MACHINE%20LEARNING&descSize=14&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123B70,100:2563EB&height=220&section=header&text=Aditya%20Kaldhone&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
 
-<a href="https://github.com/adityakaldhone09">
-<img src="https://img.shields.io/badge/GitHub-adityakaldhone09-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=adityakaldhone09&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
+[![GitHub](https://img.shields.io/badge/GitHub-adityakaldhone09-181717?style=for-the-badge&logo=github)](https://github.com/adityakaldhone09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=adityakaldhone09&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)](https://github.com/adityakaldhone09)
 
-<br/>
+### Building Intelligent Systems. Engineering Practical Solutions.
 
-### Engineering Intelligence. Building What Matters.
-
-*Transforming ideas into intelligent applications through AI, Machine Learning and Software Engineering.*
+*Exploring the intersection of Artificial Intelligence, Software Engineering and Cybersecurity.*
 
 </div>
 
 ---
 
-## ✨ About Me
+## 👨‍💻 About Me
 
-I'm **Aditya Kaldhone**, a third-year Computer Science and Engineering undergraduate specializing in Cybersecurity, passionate about Artificial Intelligence, Machine Learning and Full-Stack Development.
+Hello! I'm **Aditya Kaldhone**, a Computer Science and Engineering undergraduate specializing in Cybersecurity, passionate about building intelligent, scalable and practical software solutions.
 
-I enjoy building practical software systems that combine intelligent algorithms, modern backend architectures and intuitive user experiences.
+My interests lie in developing AI-powered applications, designing retrieval-augmented generation (RAG) systems, engineering full-stack platforms and exploring modern cybersecurity technologies.
 
-My engineering interests include:
+- 🎓 Computer Science & Engineering undergraduate — Cybersecurity.
+- 🤖 Interested in AI Engineering, LLMs, RAG and Applied Machine Learning.
+- 🧠 Exploring intelligent information retrieval, embeddings and hybrid search architectures.
+- 🌐 Building full-stack applications and scalable backend systems.
+- 🔐 Exploring Web Security, Network Security and Cybersecurity.
+- 🚀 Interested in open-source development, research and innovative engineering projects.
+- 📚 Completed a Minor in Artificial Intelligence from IIT Ropar.
 
-- 🤖 **AI Engineering:** Building LLM-powered applications and intelligent systems.
-- 🧠 **RAG & Information Retrieval:** Designing retrieval pipelines, vector search and hybrid search architectures.
-- 🌐 **Full-Stack Development:** Engineering complete web applications and scalable backend services.
-- 📊 **Machine Learning:** Exploring predictive models, deep learning and NLP.
-- 🔬 **Applied Research:** Experimenting with emerging technologies and solving real-world problems.
-
-**Currently focused on:** AI-powered applications, RAG architectures, hybrid retrieval, intelligent automation and production-oriented software engineering.
+**Current focus:** Building production-oriented AI applications, improving retrieval quality and engineering reliable software systems.
 
 ---
 
-## 🧬 Technology Stack
-
-<div align="center">
+## 🛠️ Technical Skills
 
 ### Programming Languages
 
+<p>
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,sql&theme=dark" />
+</p>
 
-### Artificial Intelligence & Machine Learning
+### AI / Machine Learning
 
+<p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+</p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Embeddings-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge" />
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Vector Embeddings and Semantic Search
+- Hybrid Search and Information Retrieval
+- Natural Language Processing (NLP)
+- Machine Learning and Deep Learning
+- AI Application Integration
 
 ### Frontend Development
 
+<p>
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" />
+</p>
 
 ### Backend Development
 
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+</p>
 
-### Databases & Data Engineering
+- REST API Development
+- Backend Architecture
+- Authentication and Authorization
+- API Integration
+- Database Design
 
+### Databases & Vector Search
+
+<p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis&theme=dark" />
+</p>
 
-<br/>
+- PostgreSQL
+- pgvector
+- MongoDB
+- Supabase
+- SQLAlchemy
+- Prisma ORM
 
-<img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge" />
+### Cybersecurity
 
-### Developer Tools & Platforms
+- Web Application Security
+- Network Security Fundamentals
+- Cryptography
+- Vulnerability Assessment
+- OWASP Web Security
+- Hands-on Security Labs
 
+### Tools & Platforms
+
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel&theme=dark" />
-
-</div>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-*Building intelligent applications and engineering practical solutions.*
+### 01. AlphaNexus — AI-Powered Financial Intelligence
 
-### 🔷 01. AlphaNexus — AI-Powered Financial Intelligence
+An intelligent financial research and analytics platform designed to combine financial information retrieval, AI-powered insights and structured financial analysis.
 
-An AI-driven financial intelligence platform focused on combining structured financial information, intelligent retrieval and LLM-powered analysis.
+**Key Engineering Areas**
+- Retrieval-Augmented Generation architecture.
+- Hybrid information retrieval using vector search and BM25.
+- Reciprocal Rank Fusion (RRF).
+- PostgreSQL with pgvector for vector retrieval.
+- LLM-powered financial information analysis.
+- Backend APIs and structured data processing.
 
-**Engineering Highlights**
+**Technology Stack:** Python · FastAPI · PostgreSQL · pgvector · SQLAlchemy · RAG · LLMs
 
-- Retrieval-Augmented Generation (RAG) architecture.
-- Hybrid retrieval using vector similarity and BM25.
-- Reciprocal Rank Fusion (RRF) for combining retrieval results.
-- PostgreSQL and pgvector-based vector retrieval.
-- SQLAlchemy-based database integration.
-- Financial information processing and AI-assisted analysis.
+[![View GitHub](https://img.shields.io/badge/Explore-GitHub-181717?style=flat-square&logo=github)](https://github.com/adityakaldhone09?tab=repositories)
 
-**Technology:** Python · FastAPI · PostgreSQL · pgvector · SQLAlchemy · RAG · LLMs
+### 02. Pragyan — AI Career Recommendation System
 
-[![Explore Repository](https://img.shields.io/badge/Explore-AlphaNexus-6366F1?style=for-the-badge&logo=github)](https://github.com/adityakaldhone09)
+An AI-powered career guidance platform designed to evaluate user profiles, assess skills and recommend suitable career paths through adaptive assessment and intelligent matching.
 
-### 🔷 02. Pragyan — AI Career Recommendation System
-
-An intelligent career recommendation platform designed to evaluate individual profiles, identify skill gaps and recommend suitable career pathways through adaptive assessments.
-
-**Engineering Highlights**
-
-- Adaptive assessment and decision engine.
-- AI-driven career and job-role matching.
-- Skill-gap identification.
-- Embedding-based semantic matching.
-- Personalized learning and career roadmaps.
+**Key Engineering Areas**
+- Adaptive AI-driven assessment engine.
+- Career and job-role recommendation.
+- Semantic matching using embeddings.
+- Skill-gap identification and career roadmaps.
+- AI-assisted decision-making.
 - Full-stack application architecture.
 
-**Technology:** React · Node.js · Express.js · Prisma · Python · Machine Learning · Embeddings
+**Technology Stack:** React · Node.js · Express.js · Prisma · Python · Machine Learning · Embeddings
 
-[![Explore Repository](https://img.shields.io/badge/Explore-Pragyan-2563EB?style=for-the-badge&logo=github)](https://github.com/adityakaldhone09/Pragyan)
+[![View Repository](https://img.shields.io/badge/Explore-Pragyan-2563EB?style=flat-square&logo=github)](https://github.com/adityakaldhone09/Pragyan)
 
-### 🔷 03. Shriram Automobiles — Digital Automotive Platform
+### 03. Shriram Automobiles — Digital Automotive Platform
 
-A digital automotive business platform designed to modernize two-wheeler servicing, spare-parts management and customer interactions.
+A digital platform for two-wheeler spare-parts management, servicing and customer interaction, with a focus on modernizing automotive business operations.
 
-**Engineering Highlights**
-
-- Digital service booking system.
-- Vehicle and customer management.
-- Spare-parts and product catalogue.
-- Mechanic selection and service workflows.
+**Key Engineering Areas**
+- Digital service booking workflows.
+- Spare-parts and product management.
+- Customer and vehicle management.
+- Mechanic selection and service management.
 - Multilingual interface planning.
-- AI-powered business automation roadmap.
+- AI-powered business automation and integration.
 
-**Technology:** React · Vite · Tailwind CSS · Node.js · Express.js · Database Integration
+**Technology Stack:** React · Vite · Tailwind CSS · Node.js · Express.js · Database Integration
 
-[![Explore Repository](https://img.shields.io/badge/Explore-Shriram_Automobiles-0891B2?style=for-the-badge&logo=github)](https://github.com/adityakaldhone09/shriramautomobiles)
+[![View Repository](https://img.shields.io/badge/Explore-Shriram_Automobiles-2563EB?style=flat-square&logo=github)](https://github.com/adityakaldhone09/shriramautomobiles)
 
-### 🔷 04. OriginX / TruthSeeker — Fake News Origin Analysis
+### 04. OriginX / TruthSeeker — Fake News Origin Analysis
 
-A hackathon project focused on investigating the origin and amplification of fake news by analyzing information propagation across digital platforms.
+A hackathon project focused on investigating the origin and amplification of fake news by tracing how information spreads across digital platforms.
 
-**Engineering Focus**
-
-- Fake news investigation.
-- Information propagation analysis.
+**Key Engineering Areas**
+- Fake news analysis.
+- Information propagation tracking.
 - Origin identification concepts.
-- NLP-based information analysis.
-- AI-assisted intelligence and cybersecurity.
+- NLP and intelligent data analysis.
+- Cybersecurity-oriented information investigation.
 
-**Technology:** Python · AI/ML · NLP · Data Analysis · Cybersecurity
+**Technology Focus:** Python · AI/ML · NLP · Data Analysis · Cybersecurity
 
-[![Explore More Projects](https://img.shields.io/badge/More_Projects-GitHub_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/adityakaldhone09?tab=repositories)
-
----
-
-## 🧠 AI Engineering & RAG Interests
-
-I am particularly interested in engineering complete AI systems rather than simply integrating an LLM API.
-
-My areas of exploration include:
-
-| Area | Technical Focus |
-|---|---|
-| LLM Engineering | Model integration, inference and prompt engineering |
-| RAG | Document ingestion, chunking and contextual retrieval |
-| Vector Search | Embeddings, similarity search and pgvector |
-| Hybrid Retrieval | BM25, dense retrieval and RRF |
-| Machine Learning | Classification, regression and model evaluation |
-| Deep Learning | Neural networks, CNNs and model optimization |
-| NLP | Text processing and semantic understanding |
-| AI Applications | Intelligent agents and workflow automation |
+[![Explore Projects](https://img.shields.io/badge/More_Projects-View_Repositories-181717?style=flat-square&logo=github)](https://github.com/adityakaldhone09?tab=repositories)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/adityakaldhone09">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=adityakaldhone09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityakaldhone09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<a href="https://github.com/adityakaldhone09">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakaldhone09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakaldhone09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/><br/>
+<br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=adityakaldhone09&theme=tokyonight&hide_border=true&ring=6366F1&fire=06B6D4&currStreakLabel=FFFFFF" />
+<img width="80%" src="https://streak-stats.demolab.com?user=adityakaldhone09&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakaldhone09&bg_color=0D1117&color=A5B4FC&line=6366F1&point=06B6D4&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakaldhone09&bg_color=0B1220&color=60A5FA&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## 🏆 Education & Achievements
+## 🏆 Achievements & Learning
 
-- 🎓 Pursuing B.Tech in Computer Science and Engineering (Cybersecurity).
-- 🧠 Completed Minor in Artificial Intelligence from IIT Ropar.
-- 🛡️ Involved in SCADE Club — Society of Cyber Security Advancements & Data Science Excellence.
-- 💻 Participated in technical activities, cybersecurity events and hackathons.
-- 🔬 Continuously exploring applied AI, machine learning and software engineering.
+- 🎓 Completed Minor in Artificial Intelligence from IIT Ropar.
+- 🛡️ Active involvement in SCADE Club — Society of Cyber Security Advancements & Data Science Excellence.
+- 💻 Participated in technical events, cybersecurity activities and hackathons.
+- 🔬 Exploring practical applications of AI, machine learning and information retrieval.
+- 📚 Continuously learning modern software engineering and cybersecurity technologies.
 
 ---
 
-## 🔭 Current Learning Roadmap
+## 🎯 Current Learning & Exploration
 
-<div align="center">
-
-| Domain | Learning Direction |
-|:---|:---|
-| AI Engineering | LLM Applications · Agentic AI |
-| RAG Systems | Advanced Retrieval · Reranking · Evaluation |
-| Machine Learning | Model Training · Feature Engineering |
-| Deep Learning | CNNs · Neural Networks · Optimization |
-| Full-Stack | Scalable APIs · Backend Architecture |
-| Data Engineering | Data Pipelines · Vector Databases |
-| Software Engineering | System Design · Cloud Deployment |
-
-</div>
+| Domain | Areas of Exploration |
+|---|---|
+| AI Engineering | LLMs, RAG, Agentic AI |
+| Information Retrieval | Hybrid Search, Embeddings, RRF |
+| Machine Learning | Deep Learning, NLP, Model Optimization |
+| Backend Engineering | FastAPI, Distributed Systems, API Design |
+| Cybersecurity | Web Security, OWASP, Network Security |
+| Software Engineering | System Design, Scalability, Cloud Deployment |
 
 ---
 
 ## 🤝 Let's Connect
 
-Interested in collaborating on AI engineering, machine learning, open-source projects and innovative software applications.
+I'm interested in connecting with developers, AI engineers, cybersecurity enthusiasts, researchers and people building innovative technology.
 
 <div align="center">
 
-<a href="https://github.com/adityakaldhone09">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityakaldhone09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-<br/><br/>
+**Open to:** Technical collaborations · Open Source · AI/ML Projects · Research · Internship Opportunities
 
-**Open to technical collaborations, AI/ML projects, research opportunities and internships.**
+</div>
 
-### Building Intelligence. Engineering Innovation. Creating Impact.
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:2563EB,70:4338CA,100:0F172A&height=140&section=footer" width="100%" />
+<div align="center">
+
+### "Building today. Innovating for tomorrow."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:123B70,100:0B1220&height=110&section=footer" width="100%" />
 
 </div>
