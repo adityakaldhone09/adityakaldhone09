@@ -1,8 +1,8 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=ADITYA%20KALDHONE&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEERING%20%7C%20FULL%20STACK%20%7C%20MACHINE%20LEARNING&descSize=12&descAlignY=60&color=0:0F172A,35:4338CA,70:7C3AED,100:06B6D4&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=ADITYA%20KALDHONE&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20CYBERSECURITY&fontAlign=50&descAlignY=60&descSize=15&color=0:0F172A,50:4338CA,100:06B6D4" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Exploring+RAG+%26+LLM+Engineering;Developing+Full-Stack+Applications;Machine+Learning+%26+Deep+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Exploring+RAG+%26+LLMs;AI+%7C+ML+%7C+Full-Stack+%7C+Cybersecurity" />
 
 <br/>
 
@@ -92,6 +92,10 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakaldhone09&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 <br/>
+
+### 🔥 70-day longest streak
+
+**September 13 – November 21, 2026**
 
 <img width="65%" src="https://streak-stats.demolab.com?user=adityakaldhone09&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=06B6D4" />
 
