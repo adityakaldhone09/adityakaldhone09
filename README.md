@@ -34,7 +34,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts&theme=dark" />
 
-**Artificial Intelligence / Machine Learning**
+**AI/ML **
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
 <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" />
